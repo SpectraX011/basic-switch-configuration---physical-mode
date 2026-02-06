@@ -1,0 +1,13 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Packet Tracer backup and temp files
+*.bak
+*.tmp
+
+# Common log files
+*.log
+
+# Editor-specific (if using VS Code)
+.vscode/
